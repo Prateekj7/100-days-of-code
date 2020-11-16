@@ -3,9 +3,9 @@
 
 ### Day 0: November 16, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Working on improving DSA and C, SQL interview questions for revision
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** : Starting with String Questions.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** https://practice.geeksforgeeks.org/tracks/DSASP-Strings/?batchId=140
 
