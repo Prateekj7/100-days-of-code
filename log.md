@@ -26,3 +26,11 @@
 
 **Link to work:** -https://www.hackerrank.com/challenges/functions-in-c/problem
                   -https://www.hackerrank.com/challenges/pointer-in-c/problem?h_r=next-challenge&h_v=zen
+                  
+### Day 3: November 19, 2020
+
+**Today's Progress**: DSA revision
+
+**Thoughts:** : Starting the GFG live classes from this week 
+
+**Link to work:** : https://www.geeksforgeeks.org/trapping-rain-water/
