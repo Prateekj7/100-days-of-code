@@ -34,3 +34,24 @@
 **Thoughts:** : Starting the GFG live classes from this week 
 
 **Link to work:** : https://www.geeksforgeeks.org/trapping-rain-water/
+
+
+### Day 4: November 20, 2020
+
+**Today's Progress**: C revision
+
+**Thoughts:** : Hackerrank further solving C problems 
+
+**Link to work:** : https://www.hackerrank.com/challenges/conditional-statements-in-c/problem
+                    https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/problem
+                    https://www.hackerrank.com/challenges/for-loop-in-c/problem
+
+
+### Day 5: November 21, 2020
+
+**Today's Progress**: DSA revision
+
+**Thoughts:** : Starting the GFG live classes from this week. First week is mathematics and Array. 
+
+**Link to work:** : https://practice.geeksforgeeks.org/problems/smallest-divisible-number/1/?track=dsa-workshop-1-mathematics&batchId=308#
+                    
