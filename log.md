@@ -55,3 +55,15 @@
 
 **Link to work:** : https://practice.geeksforgeeks.org/problems/smallest-divisible-number/1/?track=dsa-workshop-1-mathematics&batchId=308#
                     
+
+### Day 5: November 21, 2020
+
+**Today's Progress**: DSA revision
+
+**Thoughts:** : Starting the GFG live classes from this week. First week is mathematics and Array. 
+
+**Link to work:** : https://practice.geeksforgeeks.org/problems/addition-under-modulo/1/?track=dsa-workshop-1-mathematics&batchId=308
+                    https://practice.geeksforgeeks.org/problems/absolute-value/1/?track=dsa-workshop-1-mathematics&batchId=308
+                    https://practice.geeksforgeeks.org/problems/convert-celsius-to-fahrenheit/1/?track=dsa-workshop-1-mathematics&batchId=308
+                    https://practice.geeksforgeeks.org/problems/quadratic-equation-roots/1/?track=dsa-workshop-1-mathematics&batchId=308
+                    https://practice.geeksforgeeks.org/problems/digits-in-factorial/1/?track=dsa-workshop-1-mathematics&batchId=308
