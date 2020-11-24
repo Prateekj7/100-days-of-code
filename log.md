@@ -35,7 +35,6 @@
 
 **Link to work:** : https://www.geeksforgeeks.org/trapping-rain-water/
 
-
 ### Day 4: November 20, 2020
 
 **Today's Progress**: C revision
@@ -46,7 +45,6 @@
                     https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/problem
                     https://www.hackerrank.com/challenges/for-loop-in-c/problem
 
-
 ### Day 5: November 21, 2020
 
 **Today's Progress**: DSA revision
@@ -55,8 +53,7 @@
 
 **Link to work:** : https://practice.geeksforgeeks.org/problems/smallest-divisible-number/1/?track=dsa-workshop-1-mathematics&batchId=308#
                     
-
-### Day 5: November 21, 2020
+### Day6: November 22, 2020
 
 **Today's Progress**: DSA revision
 
@@ -67,3 +64,22 @@
                     https://practice.geeksforgeeks.org/problems/convert-celsius-to-fahrenheit/1/?track=dsa-workshop-1-mathematics&batchId=308
                     https://practice.geeksforgeeks.org/problems/quadratic-equation-roots/1/?track=dsa-workshop-1-mathematics&batchId=308
                     https://practice.geeksforgeeks.org/problems/digits-in-factorial/1/?track=dsa-workshop-1-mathematics&batchId=308
+                    
+### Day7: November 23, 2020
+
+**Today's Progress**: DSA revision
+
+**Thoughts:** : Starting the GFG live classes from this week. First week is mathematics and Array. 
+
+**Link to work:** : https://practice.geeksforgeeks.org/problems/gp-term/1/?track=dsa-workshop-1-mathematics&batchId=308
+                    https://practice.geeksforgeeks.org/problems/primality-test/1/?track=dsa-workshop-1-mathematics&batchId=308#
+                    
+### Day8: November 24, 2020
+
+**Today's Progress**: DSA revision
+
+**Thoughts:** : Last mathematical questions left.
+
+**Link to work:** : https://practice.geeksforgeeks.org/problems/exactly-3-divisors/1/?track=dsa-workshop-1-mathematics&batchId=308
+                    
+                    
