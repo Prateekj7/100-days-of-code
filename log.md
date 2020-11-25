@@ -81,5 +81,14 @@
 **Thoughts:** : Last mathematical questions left.
 
 **Link to work:** : https://practice.geeksforgeeks.org/problems/exactly-3-divisors/1/?track=dsa-workshop-1-mathematics&batchId=308
+                    https://practice.geeksforgeeks.org/problems/modular-multiplicative-inverse-1587115620/1/?track=dsa-workshop-1-mathematics&batchId=308
+
+### Day9: November 25, 2020
+
+**Today's Progress**: DSA revision
+
+**Thoughts:** : Starting with Array Questions.
+
+**Link to work:** : 
                     
                     
